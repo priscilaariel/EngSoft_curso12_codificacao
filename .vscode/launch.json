@@ -1,0 +1,23 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "Rodar agenda com conflito",
+      "type": "debugpy",
+      "request": "launch",
+      "module": "reservas",
+      "args": ["exemplos/agenda_com_conflito.json"],
+      "cwd": "${workspaceFolder}",
+      "console": "integratedTerminal"
+    },
+    {
+      "name": "Rodar o arquivo JSON aberto no editor",
+      "type": "debugpy",
+      "request": "launch",
+      "module": "reservas",
+      "args": ["${file}"],
+      "cwd": "${workspaceFolder}",
+      "console": "integratedTerminal"
+    }
+  ]
+}

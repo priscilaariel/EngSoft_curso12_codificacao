@@ -1,0 +1,10 @@
+{
+  "reservas_existentes": [
+    {"sala": "Sala 1", "dia": "2026-11-03", "inicio": "09:00", "fim": "10:00"},
+    {"sala": "Sala 1", "dia": "2026-11-03", "inicio": "10:00", "fim": "11:00"},
+    {"sala": "Sala 1", "dia": "2026-11-03", "inicio": "11:15", "fim": "12:00"},
+    {"sala": "Sala 2", "dia": "2026-11-03", "inicio": "10:00", "fim": "11:00"},
+    {"sala": "Sala 1", "dia": "2026-11-04", "inicio": "10:00", "fim": "11:00"}
+  ],
+  "nova_reserva": {"sala": "Sala 1", "dia": "2026-11-03", "inicio": "10:30", "fim": "11:30"}
+}
